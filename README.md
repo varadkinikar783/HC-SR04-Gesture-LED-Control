@@ -4,10 +4,9 @@ Wave your hand in front of a sensor to toggle LEDs on and off. Wave twice to tri
 
 ---
 
-## Demo
+## DEMO:
 
-*INCOMING*
-
+[Watch demo video.](https://youtube.com/shorts/6qwCP7jn9BU?feature=share)
 ---
 
 ## Built On
